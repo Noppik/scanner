@@ -2,5 +2,5 @@
 
 Сканер открытых tcp портов в заданном диапазоне
 Запуск:
-  python scanner.py start end
-где start-начальный индекс end-конечный индекс
+  python scanner.py start end ip
+где start-начальный индекс end-конечный индекс ip-ip адресс
